@@ -1,6 +1,7 @@
 # Animated Inventory GUI (MC Bedrock)
 <DOCTYPE html>
 <html>
+  <dd>Animated anime characters in your minecraft inventory, a few subpacks for each anime character should make you satisfied :)</dd>
   <br>
 <h2> Please Read Before Using This Pack </h2>
 
