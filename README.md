@@ -3,7 +3,7 @@
 <html>
   <ul>
   <li>Animated anime characters in your minecraft inventory, a few subpacks for each anime character should make you satisfied :)</li>
-  <li>This pack was forked in <a href="https://github.com/Swedeachu/MCPE-Inventory-Animator"><b>Swimfan's Inventory Animator Tool</b></a></li>
+  <li>This pack code was forked in <a href="https://github.com/Swedeachu/MCPE-Inventory-Animator"><b>Swimfan's Inventory Animator Tool and the code was made by <b><a href="https://github.com/CrisXolt">@CrisXolt</a></b></b></a></li>
   </ul>
   <br>
 <h2> Please Read Before Using This Pack </h2>
