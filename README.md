@@ -16,10 +16,14 @@
 </ol>
 <br>
 <div>
-  <h4>Anime Animated Inventory GUI V1</h4>
-<img src="https://i9.ytimg.com/vi_webp/aakA7UrQl88/maxresdefault.webp?v=63510b99&sqp=COSOnasG&rs=AOn4CLB8O6KAG71yJYuRsRLrZWVs5EwlKw"></img>
-  <h4>Anime Animated Inventory GUI V2</h4>
-<img src="https://i9.ytimg.com/vi_webp/wFLH5QmgEIU/maxresdefault.webp?v=644be424&sqp=COSOnasG&rs=AOn4CLA4jRzsJifRpqFO51tYsMirkI07nw"></img>
+  <h3>V1</h3>
+<a href="https://youtu.be/aakA7UrQl88">
+  <img src="https://i9.ytimg.com/vi_webp/aakA7UrQl88/maxresdefault.webp?v=63510b99&sqp=COSOnasG&rs=AOn4CLB8O6KAG71yJYuRsRLrZWVs5EwlKw"></img>
+</a>
+  <h3>V2</h3>
+<a href="https://youtu.be/wFLH5QmgEIU">
+  <img src="https://i9.ytimg.com/vi_webp/wFLH5QmgEIU/maxresdefault.webp?v=644be424&sqp=COSOnasG&rs=AOn4CLA4jRzsJifRpqFO51tYsMirkI07nw"></img>
+</a>
 </div>
 
   <h3 align="center" >Note📔</h3>
