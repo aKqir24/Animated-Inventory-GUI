@@ -15,11 +15,12 @@
   <li>You Can Make Private Modification But Don't Distribute It!!</li> 
 </ol>
 <div>
-  <h3>V1</h3>
+  <h1 align="center">.MCPACK Versions</h1>
+  <h3 align="center">V1</h3>
 <a href="https://youtu.be/aakA7UrQl88">
   <img src="https://i9.ytimg.com/vi_webp/aakA7UrQl88/maxresdefault.webp?v=63510b99&sqp=COSOnasG&rs=AOn4CLB8O6KAG71yJYuRsRLrZWVs5EwlKw"></img>
 </a>
-  <h3>V2</h3>
+  <h3 align="center">V2</h3>
 <a href="https://youtu.be/wFLH5QmgEIU">
   <img src="https://i9.ytimg.com/vi_webp/wFLH5QmgEIU/maxresdefault.webp?v=644be424&sqp=COSOnasG&rs=AOn4CLA4jRzsJifRpqFO51tYsMirkI07nw"></img>
 </a>
