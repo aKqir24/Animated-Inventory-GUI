@@ -14,7 +14,6 @@
   <li>Do Not Use The Elements In This Pack Without Our Permision, <b><a href="https://github.com/CrisXolt">@CrisXolt</a></b>, @Akqir...</li> 
   <li>You Can Make Private Modification But Don't Distribute It!!</li> 
 </ol>
-<br>
 <div>
   <h3>V1</h3>
 <a href="https://youtu.be/aakA7UrQl88">
