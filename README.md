@@ -1,8 +1,10 @@
 # Animated Inventory GUI (MC Bedrock)
 <DOCTYPE html>
 <html>
-  <dd>Animated anime characters in your minecraft inventory, a few subpacks for each anime character should make you satisfied :)</dd>
-  <dd>This pack was forked in <a href="https://github.com/Swedeachu/MCPE-Inventory-Animator"><b>Swimfan's Inventory Animator Tool</b></a></dd>
+  <ol>
+  <li>Animated anime characters in your minecraft inventory, a few subpacks for each anime character should make you satisfied :)</li>
+  <li>This pack was forked in <a href="https://github.com/Swedeachu/MCPE-Inventory-Animator"><b>Swimfan's Inventory Animator Tool</b></a></li>
+  </ol>
   <br>
 <h2> Please Read Before Using This Pack </h2>
 
