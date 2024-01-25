@@ -20,7 +20,7 @@
 <a href="https://youtu.be/aakA7UrQl88">           |               <a href="https://youtu.be/wFLH5QmgEIU">
   <img src="Screenshots/v1.jpg"></img>            |             <img src="Screenshots/v2.jpg"></img>
 </a>                                              |         </a>
-  </div                                           |     ></div>
+  </div>                                           |     </div>
 
   <h3 align="center" >Note📔</h3>
  <dd  align="center">If You Break These Rules, You May Face Consequences.</dd>
