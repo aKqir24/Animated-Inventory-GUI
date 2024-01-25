@@ -18,13 +18,13 @@
   <h1 align="center">.MCPACK Versions</h1>
   <h3 align="left">V1 - </h3>
 <a href="https://youtu.be/aakA7UrQl88">
-  <img src="https://i9.ytimg.com/vi_webp/aakA7UrQl88/maxresdefault.webp?v=63510b99&sqp=COSOnasG&rs=AOn4CLB8O6KAG71yJYuRsRLrZWVs5EwlKw"></img>
+  <img src="Screenshots/V1.jpg"></img>
 </a>
 </div>
 <div align="right">
   <h3 align="left">V2 - </h3>
 <a href="https://youtu.be/wFLH5QmgEIU">
-  <img src="https://i9.ytimg.com/vi_webp/wFLH5QmgEIU/maxresdefault.webp?v=644be424&sqp=COSOnasG&rs=AOn4CLA4jRzsJifRpqFO51tYsMirkI07nw"></img>
+  <img src="Screenshots/V2.jpg"></img>
 </a>
 </div>
 
