@@ -14,13 +14,13 @@
   <li>Do Not Use The Elements In This Pack Without Our Permision, <b><a href="https://github.com/CrisXolt">@CrisXolt</a></b>, @Akqir...</li> 
   <li>You Can Make Private Modification But Don't Distribute It!!</li> 
 </ol>
-<div align="left">                                |  <div align="right">
-  <h1 align="center">.MCPACK Versions</h1>        |      <div align="right">
-  <h3 align="left">V1 - </h3>                     |               <h3 align="right">V2 - </h3>
-<a href="https://youtu.be/aakA7UrQl88">           |               <a href="https://youtu.be/wFLH5QmgEIU">
+<div align="left">                                  <div align="right">
+  <h1 align="center">.MCPACK Versions</h1>             <div align="right">
+  <h3 align="left">V1 - </h3>                                   <h3 align="right">V2 - </h3>
+<a href="https://youtu.be/aakA7UrQl88">                         <a href="https://youtu.be/wFLH5QmgEIU">
   <img src="Screenshots/v1.jpg"></img>            |             <img src="Screenshots/v2.jpg"></img>
-</a>                                              |         </a>
-  </div>                                           |     </div>
+</a>                                                      </a>
+  </div>                                              </div>
 
   <h3 align="center" >Note📔</h3>
  <dd  align="center">If You Break These Rules, You May Face Consequences.</dd>
