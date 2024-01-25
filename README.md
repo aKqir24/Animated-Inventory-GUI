@@ -16,7 +16,7 @@
 </ol>
 <div align="left">                                  <div align="right">
   <h1 align="center">.MCPACK Versions</h1>             <div align="right">
-  <h3 align="left">V1 - /n V2 -</h3>
+  <h3 align="left">V1 -                                        V2 -</h3>
 <a href="https://youtu.be/aakA7UrQl88">                         <a href="https://youtu.be/wFLH5QmgEIU">
   <img src="Screenshots/v1.jpg"></img>            |             <img src="Screenshots/v2.jpg"></img>
 </a>                                                      </a>
