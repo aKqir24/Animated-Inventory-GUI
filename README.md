@@ -14,7 +14,7 @@
   <li>Do Not Use The Elements In This Pack Without Our Permision, <b><a href="https://github.com/CrisXolt">@CrisXolt</a></b>, @Akqir...</li> 
   <li>You Can Make Private Modification But Don't Distribute It!!</li> 
 </ol>
-<div align="right">
+<div align="left">
   <h1 align="center">.MCPACK Versions</h1>
   <h3 align="left">V1 - </h3>
 <a href="https://youtu.be/aakA7UrQl88">
