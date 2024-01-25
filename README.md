@@ -22,7 +22,7 @@
 </a>
 </div>
 <div align="right">
-  <h3 align="left">V2 - </h3>
+  <h3 align="right">V2 - </h3>
 <a href="https://youtu.be/wFLH5QmgEIU">
   <img src="Screenshots/v2.jpg"></img>
 </a>
