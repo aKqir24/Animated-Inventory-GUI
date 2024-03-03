@@ -17,7 +17,7 @@
 <div align="left">                                  <div align="right">
   <h1 align="center">.MCPACK Versions</h1>            
                                      
-|  V1                                                                                                                | V2                                                                                                                  |
+|  <h2 align="center">V1</h2>                                                                                                               | <h2 align="center">V2</h2>                                                                                                                  |
 |--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | <a href="https://youtu.be/aakA7UrQl88">                                                                            |  <a href="https://youtu.be/wFLH5QmgEIU">                                                                            |
 | ![v1](https://github.com/aKqir24/Animated-Inventory-GUI/assets/142222025/ed189b81-e7e8-44c1-b2ea-b3fab198666c)</a> | ![v2](https://github.com/aKqir24/Animated-Inventory-GUI/assets/142222025/2a40d8df-5192-4e1b-9666-f62054a82bb4)</a>  |   
