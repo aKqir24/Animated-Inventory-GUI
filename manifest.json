@@ -1,0 +1,106 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§3Compatible With: \n§f - BedrockClients (Put On Top)\n - Java Deluxe UI (By CrisXolt)\n\n §3Made With:\n§f - Swimfan's, CrisXolt, And Polrflare Ineventory Tool \n - GIMP (G'Mic PlugIn)\n\n§4Warning §f- May Reduce Fps Because Of Quality",
+        "name": "§2AnIMe §fGui §7V2",
+        "uuid": "01ed3d3c-b148-1700-b4a6-788f8ed89e78",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 17, 40]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "01ed3d3d-10a6-1800-9ea7-72d0fe09e112",
+            "version": [ 
+        1,
+        0,
+        0 
+      ]
+    }
+  ],
+  "subpacks": [
+    {
+    "folder_name": "1",
+    "name": "§l§dRam",
+    "memory_tier": 2
+    },
+    {
+      "folder_name": "2",
+      "name": "§l§eZenitsu",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "3",
+      "name": "§l§6Excited §fLoli",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "4",
+      "name": "§l§bKillua",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "5",
+      "name": "§l§1Finger §fSpin",
+      "memory_tier": 1
+//No.06 Is in development
+    },
+    {
+      "folder_name": "7",
+      "name": "§l§dBlushing §fShy",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "8",
+      "name": "§l§1Sasuke",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "9",
+      "name": "§l§4Blee §fLol",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "10",
+      "name": "§l§6Sun §fBreathing",
+      "memory_tier": 1
+//No.12 Is in development
+    },
+    {
+      "folder_name": "11",
+      "name": "§l§dShikamori",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "13",
+      "name": "§l§cHeart §fEyes",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "14",
+      "name": "§l§2Shikamaru",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "15",
+      "name": "§l§6Luffy",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "16",
+      "name": "§l§bSAO",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "17",
+      "name": "§l§4Aniyuki §fHello",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "18",
+      "name": "§l§4Ayanokoji",
+      "memory_tier": 1
+    }
+  ]
+}
