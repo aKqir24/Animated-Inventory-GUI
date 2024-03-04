@@ -23,5 +23,5 @@
 | ![v1](https://github.com/aKqir24/Animated-Inventory-GUI/assets/142222025/ed189b81-e7e8-44c1-b2ea-b3fab198666c)</a> | ![v2](https://github.com/aKqir24/Animated-Inventory-GUI/assets/142222025/2a40d8df-5192-4e1b-9666-f62054a82bb4)</a>  |   
 
   <h3 align="center" >Note📔</h3>
-  <dd align="center">If You Break These Rules, You May Face Consequences.</dd>
+  <p align="center">If You Break These Rules, You May Face Consequences.</p>
 </html>
