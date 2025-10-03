@@ -1,4 +1,6 @@
 # Animated Inventory GUI (MC Bedrock)
+> [!note]
+> I will be halting the development of this project for a while. Because I need time to focus more in my personal life. I will shortly be back, once I finish some business. 
 <DOCTYPE html>
 <html>
   <ul>
@@ -22,6 +24,7 @@
 | <a href="https://youtu.be/aakA7UrQl88">                                                                            |  <a href="https://youtu.be/wFLH5QmgEIU">                                                                            |
 | ![v1](https://github.com/aKqir24/Animated-Inventory-GUI/assets/142222025/ed189b81-e7e8-44c1-b2ea-b3fab198666c)</a> | ![v2](https://github.com/aKqir24/Animated-Inventory-GUI/assets/142222025/2a40d8df-5192-4e1b-9666-f62054a82bb4)</a>  |   
 
-  <h3 align="center" >Note📔</h3>
+  <h3 align="center" >Warning 🛑</h3>
   <p align="center">If You Break These Rules, You May Face Consequences.</p>
 </html>
+
